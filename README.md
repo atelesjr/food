@@ -3,11 +3,9 @@ React-Native Restaurants Search app  (Hooks)
 
 To install dependencies: npm i 
 
+To start development: npm start 
 
-To start development: npm start
 *** Windows10 - there's is an issue running expo-cli wiht NODE > 10.12v. This is the workaround:
-
-
 
 \node_modules\metro-config\src\defaults\blacklist.js
 
